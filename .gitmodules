@@ -1,0 +1,6 @@
+[submodule "demo-ntt-ts-sdk"]
+	path = demo-ntt-ts-sdk
+	url = https://github.com/wormhole-foundation/demo-ntt-ts-sdk
+[submodule "demo-ntt-connect"]
+	path = demo-ntt-connect
+	url = https://github.com/wormhole-foundation/demo-ntt-connect
