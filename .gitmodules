@@ -13,3 +13,9 @@
 [submodule "demo-queries-ts"]
 	path = demo-queries-ts
 	url = https://github.com/wormhole-foundation/demo-queries-ts.git
+[submodule "demo-cross-chain-token-transfer"]
+	path = demo-cross-chain-token-transfer
+	url = https://github.com/wormhole-foundation/demo-cross-chain-token-transfer.git
+[submodule "demo-wormhole-messaging"]
+	path = demo-wormhole-messaging
+	url = https://github.com/wormhole-foundation/demo-wormhole-messaging.git
