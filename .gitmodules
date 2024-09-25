@@ -4,3 +4,9 @@
 [submodule "demo-ntt-connect"]
 	path = demo-ntt-connect
 	url = https://github.com/wormhole-foundation/demo-ntt-connect
+[submodule "demo-wormhole-messaging"]
+	path = demo-wormhole-messaging
+	url = https://github.com/wormhole-foundation/demo-wormhole-messaging.git
+[submodule "demo-cross-chain-token-transfer"]
+	path = demo-cross-chain-token-transfer
+	url = https://github.com/wormhole-foundation/demo-cross-chain-token-transfer.git
