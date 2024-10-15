@@ -19,3 +19,6 @@
 [submodule "demo-wormhole-messaging"]
 	path = demo-wormhole-messaging
 	url = https://github.com/wormhole-foundation/demo-wormhole-messaging.git
+[submodule "demo-cctp-transfer"]
+	path = demo-cctp-transfer
+	url = https://github.com/wormhole-foundation/demo-cctp-transfer
