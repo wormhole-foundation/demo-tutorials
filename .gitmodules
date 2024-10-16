@@ -1,24 +1,32 @@
 [submodule "demo-ntt-ts-sdk"]
 	path = demo-ntt-ts-sdk
 	url = https://github.com/wormhole-foundation/demo-ntt-ts-sdk
+	branch = main
 [submodule "demo-ntt-connect"]
 	path = demo-ntt-connect
 	url = https://github.com/wormhole-foundation/demo-ntt-connect
+	branch = main
 [submodule "demo-wormhole-messaging"]
 	path = demo-wormhole-messaging
 	url = https://github.com/wormhole-foundation/demo-wormhole-messaging.git
+	branch = main
 [submodule "demo-cross-chain-token-transfer"]
 	path = demo-cross-chain-token-transfer
 	url = https://github.com/wormhole-foundation/demo-cross-chain-token-transfer.git
+	branch = main
 [submodule "demo-queries-ts"]
 	path = demo-queries-ts
 	url = https://github.com/wormhole-foundation/demo-queries-ts.git
+	branch = main
 [submodule "demo-cross-chain-token-transfer"]
 	path = demo-cross-chain-token-transfer
 	url = https://github.com/wormhole-foundation/demo-cross-chain-token-transfer.git
+	branch = main
 [submodule "demo-wormhole-messaging"]
 	path = demo-wormhole-messaging
 	url = https://github.com/wormhole-foundation/demo-wormhole-messaging.git
+	branch = main
 [submodule "demo-cctp-transfer"]
 	path = demo-cctp-transfer
 	url = https://github.com/wormhole-foundation/demo-cctp-transfer
+	branch = main
