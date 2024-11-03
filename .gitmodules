@@ -30,3 +30,7 @@
 	path = demo-cctp-transfer
 	url = https://github.com/wormhole-foundation/demo-cctp-transfer
 	branch = main
+[submodule "demo-basic-connect"]
+	path = demo-basic-connect
+	url = https://github.com/wormhole-foundation/demo-basic-connect
+	branch = main
