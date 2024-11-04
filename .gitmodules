@@ -34,3 +34,7 @@
 	path = demo-basic-connect
 	url = https://github.com/wormhole-foundation/demo-basic-connect
 	branch = main
+[submodule "demo-basic-ts-sdk"]
+	path = demo-basic-ts-sdk
+	url = https://github.com/wormhole-foundation/demo-basic-ts-sdk.git
+	branch = main
