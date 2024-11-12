@@ -38,3 +38,6 @@
 	path = demo-basic-ts-sdk
 	url = https://github.com/wormhole-foundation/demo-basic-ts-sdk.git
 	branch = main
+[submodule "demo-solana-multisig-tools"]
+	path = demo-solana-multisig-tools
+	url = https://github.com/wormhole-foundation/demo-ntt-solana-multisig-tools.git
