@@ -41,3 +41,7 @@
 [submodule "demo-solana-multisig-tools"]
 	path = demo-solana-multisig-tools
 	url = https://github.com/wormhole-foundation/demo-ntt-solana-multisig-tools.git
+[submodule "demo-metaplex-metadata"]
+	path = demo-metaplex-metadata
+	url = https://github.com/wormhole-foundation/demo-metaplex-metadata.git
+	branch = main
