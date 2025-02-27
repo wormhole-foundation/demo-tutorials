@@ -45,3 +45,11 @@
 	path = demo-metaplex-metadata
 	url = https://github.com/wormhole-foundation/demo-metaplex-metadata.git
 	branch = main
+[submodule "demo-vaa-signature-replacement"]
+	path = demo-vaa-signature-replacement
+	url = https://github.com/wormhole-foundation/demo-vaa-signature-replacement.git
+	branch = main
+[submodule "demo-mayanswift"]
+	path = demo-mayanswift
+	url = https://github.com/wormhole-foundation/demo-mayanswift.git
+	branch = main
