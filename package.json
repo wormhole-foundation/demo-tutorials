@@ -1,0 +1,22 @@
+{
+	"name": "demo-tutorials",
+	"version": "1.0.0",
+	"description": "This repository is a collection of end-to-end demos showcasing how to use various Wormhole products.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"update:demos": "./update-submodules.sh"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/wormhole-foundation/demo-tutorials.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"type": "commonjs",
+	"bugs": {
+		"url": "https://github.com/wormhole-foundation/demo-tutorials/issues"
+	},
+	"homepage": "https://github.com/wormhole-foundation/demo-tutorials#readme"
+}
