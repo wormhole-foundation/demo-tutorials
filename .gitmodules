@@ -45,3 +45,6 @@
 	path = demo-mayanswift
 	url = https://github.com/wormhole-foundation/demo-mayanswift.git
 	branch = main
+[submodule "demo-ntt-token-mint-authority-transfer"]
+	path = demo-ntt-token-mint-authority-transfer
+	url = https://github.com/wormhole-foundation/demo-ntt-token-mint-authority-transfer
