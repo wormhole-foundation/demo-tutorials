@@ -39,7 +39,7 @@
 	branch = main
 [submodule "demo-vaa-signature-replacement"]
 	path = demo-vaa-signature-replacement
-	url = https://github.cursom/wormhole-foundation/demo-vaa-signature-replacement.git
+	url = https://github.com/wormhole-foundation/demo-vaa-signature-replacement.git
 	branch = main
 [submodule "demo-mayanswift"]
 	path = demo-mayanswift
