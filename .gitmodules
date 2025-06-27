@@ -39,7 +39,7 @@
 	branch = main
 [submodule "demo-vaa-signature-replacement"]
 	path = demo-vaa-signature-replacement
-	url = https://github.com/wormhole-foundation/demo-vaa-signature-replacement.git
+	url = https://github.cursom/wormhole-foundation/demo-vaa-signature-replacement.git
 	branch = main
 [submodule "demo-mayanswift"]
 	path = demo-mayanswift
@@ -48,4 +48,8 @@
 [submodule "demo-ntt-token-mint-authority-transfer"]
 	path = demo-ntt-token-mint-authority-transfer
 	url = https://github.com/wormhole-foundation/demo-ntt-token-mint-authority-transfer
+	branch = main
+[submodule "demo-wormholescan-api"]
+	path = demo-wormholescan-api
+	url = https://github.com/wormhole-foundation/demo-wormholescan-api.git
 	branch = main
