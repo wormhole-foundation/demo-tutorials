@@ -53,3 +53,7 @@
 	path = demo-wormholescan-api
 	url = https://github.com/wormhole-foundation/demo-wormholescan-api.git
 	branch = main
+[submodule "demo-ntt-sdk-utils"]
+	path = demo-ntt-sdk-utils
+	url = https://github.com/wormhole-foundation/demo-ntt-sdk-utils.git
+	branch = main
