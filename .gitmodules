@@ -57,3 +57,11 @@
 	path = demo-ntt-sdk-utils
 	url = https://github.com/wormhole-foundation/demo-ntt-sdk-utils.git
 	branch = main
+[submodule "demo-hello-executor"]
+	path = demo-hello-executor
+	url = https://github.com/wormhole-foundation/demo-hello-executor
+	branch = main
+[submodule "demo-price-oracle"]
+	path = demo-price-oracle
+	url = https://github.com/wormhole-foundation/demo-price-oracle
+	branch = main
