@@ -5,6 +5,7 @@ on:
     # Run every Monday at 9am UTC
     - cron: '0 9 * * 1'
   workflow_dispatch: # Allow manual triggering
+  pull_request: # Allow triggering from PRs for testing
 
 jobs:
   update-submodules:
@@ -13,12 +14,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          submodules: true
           fetch-depth: 0
 
-      - name: Update submodules
-        run: |
-          git submodule update --remote --merge
+      - name: Update submodules to latest remote
+        run: git submodule update --init --remote
 
       - name: Check for changes
         id: changes
