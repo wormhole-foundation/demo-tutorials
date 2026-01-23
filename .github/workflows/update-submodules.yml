@@ -9,16 +9,17 @@ on:
 jobs:
   update-submodules:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          submodules: true
           fetch-depth: 0
 
-      - name: Update submodules
-        run: |
-          git submodule update --remote --merge
+      - name: Update submodules to latest remote
+        run: git submodule update --init --remote
 
       - name: Check for changes
         id: changes
@@ -41,4 +42,5 @@ jobs:
 
             This PR updates all submodules to their latest commits on the tracked branch.
           branch: auto-update-submodules
+          base: main
           delete-branch: true
