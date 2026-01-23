@@ -40,4 +40,5 @@ jobs:
 
             This PR updates all submodules to their latest commits on the tracked branch.
           branch: auto-update-submodules
+          base: main
           delete-branch: true
