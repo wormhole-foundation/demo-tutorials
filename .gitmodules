@@ -69,3 +69,7 @@
 	path = demo-ntt-evm-multisig-tools
 	url = https://github.com/wormhole-foundation/demo-ntt-evm-multisig-tools.git
 	branch = main
+[submodule "demo-hello-executor-solana"]
+	path = demo-hello-executor-solana
+	url = https://github.com/wormhole-foundation/demo-hello-executor-solana.git
+	branch = main
