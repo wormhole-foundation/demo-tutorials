@@ -65,3 +65,7 @@
 	path = demo-price-oracle
 	url = https://github.com/wormhole-foundation/demo-price-oracle
 	branch = main
+[submodule "demo-ntt-evm-multisig-tools"]
+	path = demo-ntt-evm-multisig-tools
+	url = https://github.com/wormhole-foundation/demo-ntt-evm-multisig-tools.git
+	branch = main
